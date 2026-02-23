@@ -31,11 +31,9 @@ public class Main {
         }
     }
 }
-//*
-//Ghi chú:
-//- Anonymous Class được dùng khi cần cài đặt interface với logic phức tạp
-//  hoặc cần thêm thuộc tính nội bộ (field), Lambda không làm được điều này.
-//- Lambda Expression chỉ dùng cho Functional Interface và phù hợp khi logic ngắn gọn,
-//  giúp code súc tích và dễ đọc hơn.
-//*
+//Ghi chú
+// Anonymous Class được dùng khi cần cài đặt interface với logic phức tạp
+// hoặc cần thêm thuộc tính nội bộ, Lambda không làm được điều này
+// Lambda Expression chỉ dùng cho Functional Interface và phù hợp khi logic ngắn gọn
+// giúp code súc tích và dễ đọc hơn
 
